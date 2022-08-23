@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Increment-Decrement/static/css/main.14d2b07d.css",
+    "main.js": "/Increment-Decrement/static/js/main.eed0c60a.js",
+    "static/js/787.f9ad14d2.chunk.js": "/Increment-Decrement/static/js/787.f9ad14d2.chunk.js",
+    "index.html": "/Increment-Decrement/index.html",
+    "main.14d2b07d.css.map": "/Increment-Decrement/static/css/main.14d2b07d.css.map",
+    "main.eed0c60a.js.map": "/Increment-Decrement/static/js/main.eed0c60a.js.map",
+    "787.f9ad14d2.chunk.js.map": "/Increment-Decrement/static/js/787.f9ad14d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14d2b07d.css",
+    "static/js/main.eed0c60a.js"
+  ]
+}
